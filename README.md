@@ -1,4 +1,4 @@
-## Hello! I'm Luis Rubio!
+## Hello! I'm Luis Rubio.
 
 **I'm a JR Full-Stack Developer, front-end focused!**<br/>
 **Eu sou um Desenvolvedor Full-Stack, com foco em front-end!**
