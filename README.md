@@ -1,6 +1,7 @@
 ## Hello! I'm Luis Rubio!
 
-**I'm a JR Full-Stack Developer,front-end focused**
+**I'm a JR Full-Stack Developer, front-end focused!**
+**Eu sou um Desenvolvedor Full-Stack, com foco em front-end!**
 
 <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
