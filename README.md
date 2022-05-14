@@ -1,8 +1,8 @@
-## Olá, eu sou o Luis Rubio!
+## Hello! I'm Luis Rubio!
 
 **I'm a JR Full-Stack Developer** 💙
 
-<img src="https://c.tenor.com/bPQ5y.gif">
+<img src="https://tenor.com/bPQ5y.gif">
 
 - :office: &nbsp;I'm currently working at **[Hinode Group]**
 - :seedling: &nbsp;I’m currently learning **React** and **JS** and **Bootstrap**
