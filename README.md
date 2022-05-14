@@ -2,7 +2,7 @@
 
 **I'm a JR Full-Stack Developer** 💙
 
-<img src="https://tenor.com/bPQ5y.gif">
+<img src="https://tenor.com/view/software-software-development-gif-24712790">
 
 - :office: &nbsp;I'm currently working at **[Hinode Group]**
 - :seedling: &nbsp;I’m currently learning **React** and **JS** and **Bootstrap**
