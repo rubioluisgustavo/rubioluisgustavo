@@ -1,6 +1,6 @@
 ## Hello! I'm Luis Rubio!
 
-**I'm a JR Full-Stack Developer** 💙
+**I'm a JR Full-Stack Developer,front-end focused**
 
 <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
@@ -20,13 +20,13 @@
   <img height="35" width="50" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="35" width="50" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="35" width="50" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="35" width="50" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img height="35" width="50" alt="Boostrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 <br />
 
 [![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubioluisgustavo&theme=dracula)](https://github.com/rubioluisgustavo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubioluisgustavo&layout=compact&theme=ayu-mirage)](https://github.com/raphafritz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubioluisgustavo&layout=compact&theme=ayu-mirage)](https://github.com/rubioluisgustavo)
 
 [Hinode Group]: https://grupohinode.com/
