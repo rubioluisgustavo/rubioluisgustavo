@@ -25,8 +25,6 @@
   <img height="30" width="45" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-<br />
-
 [![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubioluisgustavo&theme=dracula)](https://github.com/rubioluisgustavo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubioluisgustavo&layout=compact&theme=ayu-mirage)](https://github.com/rubioluisgustavo)
