@@ -1,6 +1,6 @@
 ## Olá, eu sou o Luis Rubio, sou Desenvolvedor Full-Stack JR!**
 
-<img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
+<img src="https://c.tenor.com/code-coding-programming-computer-science-programming-language-gif-16596559"/>
 
 - :office: &nbsp;Estou trabalhando na **[Hinode Group]**
 - :seedling: &nbsp;Estou aprendendo: **Node** , **JS** , **SQL** , and **CSS**
