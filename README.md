@@ -1,4 +1,4 @@
-## Olá, eu sou o Luis Rubio, sou Desenvolvedor Full-Stack JR!**
+## Olá, eu sou o Luis Rubio e sou Desenvolvedor
 
 <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
 
