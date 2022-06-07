@@ -1,13 +1,10 @@
-## Hello! I'm Luis Rubio.
+## Olá, eu sou o Luis Rubio, sou Desenvolvedor Full-Stack JR!**
 
-**I'm a JR Full-Stack Developer!**<br/>
-**Eu sou um Desenvolvedor Full-Stack JR!**
+<img src="[https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif](https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559)">
 
-<img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
-
-- :office: &nbsp;I'm currently working at **[Hinode Group]**
-- :seedling: &nbsp;I’m currently learning **Node** , **JS** , **SQL** , and **CSS**
-- :speech_balloon: &nbsp;I like to talk about fishing, music, and gym
+- :office: &nbsp;Estou trabalhando na **[Hinode Group]**
+- :seedling: &nbsp;Estou aprendendo: **Node** , **JS** , **SQL** , and **CSS**
+- :speech_balloon: &nbsp;Gosto de falar sobre pesca, música e academia.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luis-gustavo-rubio-89a7ab200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
