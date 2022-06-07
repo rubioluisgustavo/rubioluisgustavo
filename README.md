@@ -1,7 +1,7 @@
 ## Hello! I'm Luis Rubio.
 
-**I'm a JR Full-Stack Developer, front-end focused!**<br/>
-**Eu sou um Desenvolvedor Full-Stack, com foco em front-end!**
+**I'm a JR Full-Stack Developer!**<br/>
+**Eu sou um Desenvolvedor Full-Stack JR!**
 
 <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
@@ -17,7 +17,7 @@
 
 <div align="left">
   <img height="30" width="45" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="30" width="45" alt="Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
+  <img height="30" width="45" alt="Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img height="30" width="45" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" width="45" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="30" width="45" alt="Boostrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
