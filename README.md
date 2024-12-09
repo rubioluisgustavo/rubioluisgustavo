@@ -24,6 +24,7 @@ Atualmente, trabalho desenvolvendo soluções personalizadas e otimizadas para a
 ---
 
 ## Meus Contatos
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5514998522092)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gustavo-rubio-89a7ab200/)
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rubioluisgustavo@gmail.com)
 
