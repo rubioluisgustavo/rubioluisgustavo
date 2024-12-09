@@ -1,34 +1,29 @@
-# Olá! 👋 Seja bem-vindo ao meu perfil!
+# welcome to my profile
 
-## Sobre Mim
-- 🧑‍💻 **Desenvolvedor Web Fullstack com 5 anos de experiência**
+## about me
+- 🧑‍💻 **Web Fullstack Developer with 5 years experience**
   - **PHP** (Zend e Laravel)
   - **JavaScript** (angularJS e Jquery)
   - **CSS**
   - **SQL**
-- 🎯 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
-- 🥋 **Praticante de Judô** (Faixa Laranja - Yon-Kyu).
-- 👨‍👩‍👦 Sou casado e pai de um filho.
+- 🎯 B2 English speaker and C1 reader and writer. Lookin' for my first international experience.
+- 🥋 **Judoka** (Orange belt - Yon-Kyu).
+- 👨‍👩‍👦 Married and dad.
 
 ---
 
-## O que eu faço
-Atualmente, trabalho desenvolvendo soluções personalizadas e otimizadas para a web. Gosto de transformar ideias em aplicações funcionais e bem estruturadas.
+## what do i do?
+Currently, I work developing personalized and optimized solutions for the web. I like transforming ideas into functional and well-structured applications
 
 ---
 
-## Curiosidades
-- 🌱 Estou constantemente estudando novas ferramentas e frameworks para melhorar meu trabalho.
-- 🥋 No judô, aprendo valores como disciplina, respeito e persistência que levo também para minha vida profissional.
+## Curiosities
+- 🌱 I am constantly studying new tools and frameworks to improve my work.
+- 🥋 In judo I learn values ​​such as discipline, respect and persistence that I also take into my professional life.
 
 ---
 
-## Meus Contatos
+## Contact me
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5514998522092)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gustavo-rubio-89a7ab200/)
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rubioluisgustavo@gmail.com)
-
----
-
-## Obrigado pela visita!
-Fique à vontade para explorar meus repositórios e conhecer mais sobre meu trabalho. 🚀
