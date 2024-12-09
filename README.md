@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá! 👋 Seja bem-vindo ao meu perfil!
 
-<!--
-**rubioluisgustavo/rubioluisgustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+- 🧑‍💻 **Desenvolvedor Web Fullstack com 5 anos de experiência**
+  - **PHP** (Zend e Laravel)
+  - **JavaScript** (angularJS e Jquery)
+  - **CSS**
+  - **SQL**
+- 🎯 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+- 🥋 **Praticante de Judô** (Faixa Laranja - Yon-Kyu).
+- 👨‍👩‍👦 Sou casado e pai de um filho.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que eu faço
+Atualmente, trabalho desenvolvendo soluções personalizadas e otimizadas para a web. Gosto de transformar ideias em aplicações funcionais e bem estruturadas.
+
+---
+
+## Curiosidades
+- 🌱 Estou constantemente estudando novas ferramentas e frameworks para melhorar meu trabalho.
+- 🥋 No judô, aprendo valores como disciplina, respeito e persistência que levo também para minha vida profissional.
+
+---
+
+## Meus Contatos
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gustavo-rubio-89a7ab200/)
+[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rubioluisgustavo@gmail.com)
+
+---
+
+## Obrigado pela visita!
+Fique à vontade para explorar meus repositórios e conhecer mais sobre meu trabalho. 🚀
