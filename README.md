@@ -2,8 +2,8 @@
 
 ## about me
 - 🧑‍💻 **Web Fullstack Developer with 5 years experience**
-  - **PHP** (Zend e Laravel)
-  - **JavaScript** (angularJS e Jquery)
+  - **PHP** (Zend / Laravel)
+  - **JavaScript** (angularJS / Jquery)
   - **CSS**
   - **SQL**
 - 🎯 B2 English speaker and C1 reader and writer. Lookin' for my first international experience.
