@@ -6,7 +6,7 @@
   - **JavaScript** (angularJS / Jquery)
   - **CSS**
   - **SQL**
-- 🎯 B2 English speaker and C1 reader and writer. Lookin' for my first international experience.
+- 🎯 English speaker, reader and writer.
 - 🥋 **Judoka** (Orange belt - Yon-Kyu).
 - 👨‍👩‍👦 Married and dad.
 
