@@ -6,13 +6,13 @@
   - **JavaScript** (angularJS / Jquery)
   - **CSS**
   - **SQL**
-- 🎯 English speaker, reader and writer.
-- 🥋 **Judoka** (Orange belt - Yon-Kyu).
+- 💂🏻 English Lover.
+- 🎣 In my free time (when i have) i like to: fishing, and train Judo 🥋
 - 👨‍👩‍👦 Married and dad.
 
 ---
 
-## what do i do?
+## what do i do for a living?
 Currently, I work developing personalized and optimized solutions for the web. I like transforming ideas into functional and well-structured applications
 
 ---
