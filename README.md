@@ -3,12 +3,12 @@
 ## about me
 - 🧑‍💻 **Web Fullstack Developer with 5 years experience**
   - **PHP** (Zend / Laravel)
-  - **JavaScript** (angularJS / Jquery)
+  - **JavaScript** (angularJS / Jquery / Vanilla)
   - **CSS**
-  - **SQL**
-- 💂🏻 English Lover.
+  - **SQL** (MySQL, SQL Server)
+- 💂🏻 English Lover
 - 🎣 In my free time (when i have) i like to: fishing, and train Judo 🥋
-- 👨‍👩‍👦 Married and dad.
+- 👨‍👩‍👦 Husband and dad.
 
 ---
 
