@@ -3,7 +3,7 @@
 ## about me
 - 🧑‍💻 **Web Fullstack Developer with 5 years experience**
   - **PHP** (Zend / Laravel)
-  - **JavaScript** (angularJS / Jquery / Vanilla)
+  - **JavaScript** (angularJS / vuejs / Jquery / Vanilla)
   - **CSS**
   - **SQL** (MySQL, SQL Server)
 - 💂🏻 English Lover
